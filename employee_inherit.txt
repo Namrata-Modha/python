@@ -1,0 +1,2 @@
+G|F|33|001|IT|20|30.0|part-time|
+003|D|18|ffd1|IT|5000.0|full-time|medical; dental|14
